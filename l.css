@@ -1,0 +1,14 @@
+ul{
+    columns: 2;
+    column-gap: 20px;
+    position: relative;
+    top: 150px;
+    right: 15px;
+    font-size: 45px;
+}
+
+li a{
+    text-decoration: none;
+    color: blueviolet;
+}
+
